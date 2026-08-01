@@ -1,6 +1,6 @@
 # Akwankyere
 
-A Ghana-focused career and education guidance platform that helps Junior High School (JHS) students explore suitable academic and career pathways. It is a web application that provides a user-friendly interface for students to explore and compare different pathways, including SHS and tertiary education programmes.
+A Ghana-focused career and education guidance platform that helps Junior High School (JHS) students explore suitable academic and career pathways. It is a web application that provides a user-friendly interface for students to explore and compare different SHS and tertiary education programmes base on their current academic background and career aspirations.
 
 ## Tech Stack
 
