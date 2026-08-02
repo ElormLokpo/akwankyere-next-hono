@@ -69,7 +69,7 @@ export default function Home() {
 
         </div>
         <div className="hidden lg:block col-span-1">
-          <Image src="/landing.png" alt="landing" width={1000} height={1000} />
+          <Image className="rounded-4xl" src="/landing.png" alt="landing" width={1000} height={1000} />
         </div>
       </div>
 
